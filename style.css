@@ -11,5 +11,10 @@ body{
         font-weight: 400;
         line-height: 18.75px;
         text-align: center;
- 
+}
+
+header{border-bottom: 1px solid gray;
+}
+
+footer{border-top: 1px solid gray;
 }
